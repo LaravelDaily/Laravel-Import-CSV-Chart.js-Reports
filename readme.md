@@ -2,9 +2,11 @@
 
 This is a quick project to demonstrate our [Laravel QuickAdminPanel generator](https://quickadminpanel.com).
 
+Here's [Live-coding video of this project](https://www.youtube.com/watch?v=7ifksg13bDc) in just 10 minutes.
+
 ![Laravel import CSV Charts with Chart.js](http://webcoderpro.com/laravel-chart-csv-demo.png)
 
-Live-coding video of this project: to be uploaded
+![Laravel import CSV](http://webcoderpro.com/laravel-import-csv-demo.png)
 
 ---
 
